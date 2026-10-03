@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import random
 import time
 import os
@@ -5,7 +7,7 @@ import json
 import subprocess
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-SPEEDRUN_FILE = os.path.join(BASE_DIR, "speedrun_records.json")
+SPEEDRUN_FILE = os.path.join(BASE_DIR, "speedruns/speedrun_records.json")
 
 VERSION = "alpha 0.1.3"
 ROUNDS = 10
