@@ -131,6 +131,10 @@ def intro():
         "vi3e3e3w GAM",
         "vi3e3e3w GAME",
         "vi3e3e3w GAME",
+        "vi3e3e3w GAME",
+        "vi3e3e3w GAME",
+        "vi3e3e3w GAME",
+        "vi3e3e3w GAME",
         "Made By (odex",
         "Made by codex",
         "Made By (odex",
@@ -139,6 +143,10 @@ def intro():
         "Made by codex",
         "Made By (odex",
         "Made By codex",
+        "Made By Codex (AI)",
+        "Made By Codex (AI)",
+        "Made By Codex (AI)",
+        "Made By Codex (AI)",
         "Made By Codex (AI)"
     ]
 
