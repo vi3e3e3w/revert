@@ -35,7 +35,7 @@ alpha 0.1.3
 ## Run
 
 ```bash
-python3 'RE√(E)Rt.py'
+python3 main.py
 ```
 
 ## Warning
@@ -44,7 +44,7 @@ This is still an alpha learning project. Expect rough edges, bugs, and weird tex
 
 ## Notes
 
-Speedrun records are saved locally in `speedrun_records.json`. This file is ignored by Git.
+Speedrun records are saved locally in `speedruns/`. This directory is ignored by Git.
 
-### shhhhh....
-Release will comming soon
+### Plan
+I am plaining to make a MakeFile for install inside your computer
